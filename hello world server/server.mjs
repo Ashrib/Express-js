@@ -7,7 +7,7 @@ const port = 3000
 app.get('/', (req, res) => {
 
     console.log("request from ip:", req.ip);
-  res.send("Asharib's server!")
+  res.send("Asharib's server !")
 })
 
 app.listen(port, () => {
