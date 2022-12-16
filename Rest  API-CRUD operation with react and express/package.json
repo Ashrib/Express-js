@@ -1,0 +1,25 @@
+{
+  "name": "react-app-with-express-server-api",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashrib/React-app-with-express-server-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashrib/React-app-with-express-server-api/issues"
+  },
+  "homepage": "https://github.com/Ashrib/React-app-with-express-server-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "main": "index.js",
+  "description": ""
+}
